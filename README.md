@@ -1,4 +1,7 @@
 # DataProductsWeek4
+
+- The app.R file is housed in the "Hockey" directory
+
 - This app takes information from the  NHLData package.
 - It plots the difference between goals scored by the home and away teams. So a positive value means the home team scored more than the away team.
 - You can select a time frame to look at by using the variable slider.
